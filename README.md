@@ -19,3 +19,10 @@ Currently employing two approaches to determine structural properties of viral p
 5. Select the desired `.ipynb` file from the left sidepanel.
 6. Select `Python 3 (ipykernal)` on the pop-up. (Note: for the R notebook, upload the `Bio3D_VP4.ipnb` file to `https://sfu.syzygy.ca/` and run commands)
 
+## Useful Links
+- [Jupyter](https://jupyter.org/)
+- [Jupyter Project Documentation](https://docs.jupyter.org/en/latest/)
+- [Jupyter Get Started](https://docs.jupyter.org/en/latest/start/index.html)
+- [PyRosetta Workshops](https://rosettacommons.github.io/PyRosetta.notebooks/)
+- [Google Colaboratory](https://colab.research.google.com/)
+- [Zentrum für Bioinformatik: Universität Hamburg - Proteins*Plus* ](https://proteins.plus/)
