@@ -1,0 +1,13 @@
+# Investigating protein interaction for [PDB 4IZJ](https://proteins.plus/4izj#)
+ 
+Crystal structure of yellowtail ascites virus VP4 protease with a wild-type active site 
+
+- `Protoss` - Predict hydrogens in protein structure
+- `DoGSiteScorer` - Detect protein binding site
+- `StructureProfiler` - Protein structure profiling
+- `GeoMine` - Surface proterties of protein pocket
+
+Datasets available in Protein*Plus*: https://www.zbh.uni-hamburg.de/en/forschung/amd/datasets.html
+
+Potential Tool: [Torsion Analyzer](https://www.zbh.uni-hamburg.de/en/forschung/amd/software/torsion-analyzer.html)
+- Requires Linux or Mac
