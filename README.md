@@ -10,3 +10,12 @@ Currently employing two approaches to determine structural properties of viral p
     - Code:
       - `Investigating Gene and Protein Properties.ipynb` - Contains all functional code :white_check_mark:
       - `sample_code_pyRosetta.ipynb` - Troubleshooting error through `Google Collab` :construction_worker_woman:
+
+## How to open the (python) notebooks?
+1. Open [binder](https://mybinder.org/).
+2. Enter **https://github.com/shefcode/proteinbiochem** in the `GitHub repository name or URL` field. For the drop-down option, select `GitHub`.
+3. Press `launch`.
+4. The JupyterLab launcher will open.
+5. Select the desired `.ipynb` file from the left sidepanel.
+6. Select `Python 3 (ipykernal)` on the pop-up. (Note: for the R notebook, upload the `Bio3D_VP4.ipnb` file to `https://sfu.syzygy.ca/` and run commands)
+
