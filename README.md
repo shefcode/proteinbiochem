@@ -9,7 +9,6 @@ Currently employing two approaches to determine structural properties of viral p
       - Amino acid sequence for Drosophila X Virus Polyprotein `polyprotein_Drosophila_X_virus_sequence.fasta` 	:dna:
     - Code:
       - `Investigating Gene and Protein Properties.ipynb` - Contains all functional code :white_check_mark:
-      - `sample_code_pyRosetta.ipynb` - Troubleshooting error through `Google Collab` :construction_worker_woman:
 
 ## How to open the (python) notebooks?
 1. Open [binder](https://mybinder.org/).
